@@ -421,3 +421,17 @@ Small Device Styles
   }
 
 }
+
+/*mios*/
+.gallery_urls{
+  text-align: right;
+  margin: 0;
+  font-size: 14px;
+  margin-right: 5px;
+}
+.gallery_urls a {
+  color: #A2A6A7;
+}
+.gallery_urls a:hover {
+  color: inherit;
+}
